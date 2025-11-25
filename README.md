@@ -1,1 +1,49 @@
-# README.md
+# 👋 Привет, я Артем!
+
+<a href="https://t.me/anonymucs">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://ArtStudia-Official.page.gd">
+  <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+</a>
+
+---
+
+### 🧑‍💻 Обо мне
+
+*   **Имя:** Артем
+*   **Возраст:** 14 лет
+*   **Местоположение:** Россия 🇷🇺
+*   **Род занятий:** Юный разработчик и студент
+*   **Мечта:** Стать профессиональным разработчиком и создавать крутые приложения.
+
+Мне нравится превращать идеи в код. Я постоянно учусь новому и совершенствую свои навыки в программировании.
+
+---
+
+### 🛠️ Мой Технологический Стек
+
+| Категория | Технологии |
+| --------- | ---------- |
+| **Backend** | `Python` |
+| **Mobile & Desktop** | `Java`, `Kotlin` |
+| **Frontend & Web** | `HTML`, `JavaScript` |
+| **Инструменты** | `Git`, `GitHub` |
+
+---
+
+### 📈 Моя Статистика на GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArtStudia9&show_icons=true&theme=default" alt="Статистика ArtStudia" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtStudia9&layout=compact&theme=default" alt="Популярные языки" />
+</p>
+
+---
+
+### 📫 Как со мной связаться?
+
+*   **Telegram:** [@anonymucs](https://anonymucs.t.me)
+*   **Веб-сайт:** [ArtStudia-Official.page.gd](https://ArtStudia-Official.page.gd)
+
+*Не стесняйтесь писать мне по любым вопросам или для совместной работы! 😊*
