@@ -30,14 +30,6 @@
 | **Frontend & Web** | `HTML`, `JavaScript` |
 | **Инструменты** | `Git`, `GitHub` |
 
----
-
-### 📈 Моя Статистика на GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArtStudia9&show_icons=true&theme=default" alt="Статистика ArtStudia" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtStudia9&layout=compact&theme=default" alt="Популярные языки" />
-</p>
 
 ---
 
